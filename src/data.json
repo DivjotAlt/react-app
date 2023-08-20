@@ -1,0 +1,32 @@
+[
+  {
+    "name": "divjot",
+    "age": 13,
+    "class": 9,
+    "section": "b",
+    "gender": "male",
+    "roles": ["dev", "programming", "robotics"],
+    "yearJoined": 2023,
+    "noOfEventsDone": 1
+  },
+  {
+    "name": "manan",
+    "age": 13,
+    "class": 9,
+    "section": "d|e",
+    "gender": "male",
+    "roles": ["dev", "gaming"],
+    "yearJoined": 2023,
+    "noOfEventsDone": 0
+  },
+  {
+    "name": "agastya",
+    "age": 13,
+    "class": 9,
+    "section": "x",
+    "gender": "male",
+    "roles": ["dev", "programming", "gaming"],
+    "yearJoined": 2023,
+    "noOfEventsDone": 0
+  }
+]
