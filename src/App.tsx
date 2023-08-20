@@ -1,4 +1,4 @@
-import "/dist/output.css";
+import "./output.css";
 import ToggleContent from "./ToggleContent";
 function App() {
   return (
